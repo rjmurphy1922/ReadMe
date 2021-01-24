@@ -26,7 +26,7 @@ inquirer
 },
 {
     type: "input",
-    name: "Conribution",
+    name: "Contribution",
     message:"Contribution Guidelines",
 
 },
@@ -49,7 +49,7 @@ inquirer
 
 {
   type: "input",
-  name: "Questions?",
+  name: "Email",
   message:"Please input your email address",
 },
 
@@ -68,8 +68,7 @@ inquirer
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-   # Title
-   ${answers.github}
+   # ${answers.github}
 
    ## ${"Table of Contents"}
 

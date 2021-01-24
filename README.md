@@ -1,10 +1,9 @@
 
 
-   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)"
+   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-   # Title
-   Ryan
+   # ReadMe Generator
 
    ## Table of Contents
 
@@ -21,16 +20,16 @@
 
 
   ## Installation
-  R
+  There are no specific installation instrcutions for this project it is a command line driven project.
 
   ## Usage Information
-  
+  This project is intended to be used for generating a ReadMe.md file for any given project.
 
   ## Contribution Information
-  undefined
+  Anyone is welcome to contribute at this time there are no additional contributors aside from myself Ryan Murphy.
 
   ## Testing Information
-  
+  No Testing information.
 
    ## Questions
 
@@ -38,6 +37,6 @@
    <br>
    https://github.com/rjmurphy1922
    <br>
-  undefined
+  rjmurphy1922@gmail.com
 
    
