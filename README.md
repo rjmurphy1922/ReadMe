@@ -3,7 +3,7 @@
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-   # ReadMe Generator
+   # Fitness Tracker
 
    ## Table of Contents
 
@@ -20,16 +20,16 @@
 
 
   ## Installation
-  There are no specific installation instrcutions for this project it is a command line driven project.
+  No Installation Required
 
   ## Usage Information
-  This project is intended to be used for generating a ReadMe.md file for any given project.
+  This is an app that allows you to track the repetitions and/or duration of a variety of different workouts. It then aggregates the input data and returns the user totals for those workouts.
 
   ## Contribution Information
-  Anyone is welcome to contribute at this time there are no additional contributors aside from myself Ryan Murphy.
+  No additional Contributors at this time
 
   ## Testing Information
-  No Testing information.
+  No Testing Information
 
    ## Questions
 
@@ -37,6 +37,6 @@
    <br>
    https://github.com/rjmurphy1922
    <br>
-  rjmurphy1922@gmail.com
+  rjmurphy@gmail.com
 
    

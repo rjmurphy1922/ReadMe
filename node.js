@@ -37,6 +37,12 @@ inquirer
 },
 
 {
+  type: "input",
+  name: "Tech",
+  message:"Please Enter Technologies ",
+},
+
+{
   type: "list",
   name: "License",
   message:"Please select a License ",
@@ -95,6 +101,9 @@ inquirer
 
   ## Testing Information
   ${answers.Test}
+
+  ## Technologiess
+  ${answers.Tech}
 
    ## Questions
 
