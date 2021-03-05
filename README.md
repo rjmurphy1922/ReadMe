@@ -7,9 +7,6 @@
 
    ## Table of Contents
 
-   
-
-
    [Installation](#Installation)
     <br>
    [Usage](#Usage)
@@ -26,10 +23,15 @@
   This is an app that allows you to track the repetitions and/or duration of a variety of different workouts. It then aggregates the input data and returns the user totals for those workouts.
 
   ## Contribution Information
-  No additional Contributors at this time
+  No additional Contributors at this time.
 
   ## Testing Information
-  No Testing Information
+  No Testing Information.
+
+  ## Technologiess
+  Javascript, HTML, CSS, MongoDB, Node.js
+
+  ![alt text](https://github.com/rjmurphy1922/FitTracker/blob/main/FitTracker.png?raw=true)
 
    ## Questions
 
@@ -37,6 +39,6 @@
    <br>
    https://github.com/rjmurphy1922
    <br>
-  rjmurphy@gmail.com
+  rjmurphy1922@gmail.com
 
    

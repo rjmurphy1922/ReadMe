@@ -59,6 +59,20 @@ inquirer
   message:"Please input your email address",
 },
 
+{
+  type: "input",
+  name: "Repo",
+  message:"Please input your repository name",
+},
+
+{
+  type: "input",
+  name: "File",
+  message:"Please input your image file name",
+},
+
+
+
 
 
 
@@ -77,9 +91,6 @@ inquirer
    # ${answers.github}
 
    ## ${"Table of Contents"}
-
-   
-
 
    [Installation](#Installation)
     <br>
@@ -105,6 +116,8 @@ inquirer
   ## Technologiess
   ${answers.Tech}
 
+  ![alt text](https://github.com/rjmurphy1922/${answers.Repo}/blob/main/${answers.File}?raw=true)
+
    ## Questions
 
    Please feel free to reach out with any additional questions through my email or on github.
@@ -121,14 +134,7 @@ inquirer
     if(error) {
    throw error
     };
-
-   
-
-  })
-
-
-
+ })
 }
-
 
 userPrompt();
